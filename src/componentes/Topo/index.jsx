@@ -7,6 +7,7 @@ import Noite from '../../assets/moon.png';
 export default function Topo(props){
     const [nome, setNome]=useState(Dia)
     const alternarCor=()=>{
+        alert(props.tema)
         
         if (props.tema==='claro'){
             props.setState('escuro');
@@ -21,7 +22,7 @@ export default function Topo(props){
 
             <div className='Topo'>
                 <img src={Logo} alt="logotipo" />
-                <button className='botao' onClick={alternarCor} ></button>
+                <button className='botao' onClick={alternarCor} >xasdas</button>
             </div>
         );
         
