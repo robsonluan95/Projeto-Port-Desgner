@@ -1,0 +1,41 @@
+.limite-area{
+    max-width: 1280px;
+}
+.rodapeFooter{
+
+    font-family: 'Poppins';
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 0px auto;
+}
+.rodapeFooter p{
+    max-width: 600px;
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+    color: #8a8fa3;
+
+}
+.imaRodape{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.imaRodape img{
+    padding: 1px;
+    height: 35px;
+
+    margin: 0 auto;
+
+}
+.nome{
+    text-decoration: none;
+    color: rgb(202, 202, 25);
+    font-weight: bolder;
+}

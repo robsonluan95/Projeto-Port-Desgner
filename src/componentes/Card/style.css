@@ -1,0 +1,38 @@
+.backColor{
+    background-color: #f6f8fc;
+}
+.secaoCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1280px;
+    margin: 0px auto;
+    height: 400px;
+    
+}
+.limite-area{
+    max-width: 1280px;
+}
+.card{
+    border: 1px solid #32333c34;
+    width: 300px;
+    color: #8a8fa3;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+.card:hover{
+    border: 1px solid #edecec;
+    color: #feb633;
+    
+}
+.card h3{
+    padding: 5px 0px;
+    color: #32333c;
+}
+.card p{
+    padding: 3px;
+    font-size: 14px;
+}

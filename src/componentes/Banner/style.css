@@ -1,0 +1,26 @@
+.banner{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.BannerImagem{
+    width: 50%;
+    height: 100%;
+    background-image: url('../../assets/banner.png');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position-x: center;
+    background-position-y:center;
+    background-color: #fff;
+}
+div .texto{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fafbfc;
+    color: #022144;
+}

@@ -1,0 +1,20 @@
+.Topo{
+    width: 95%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 40px;
+}
+
+.Topo img{
+    background-image: url('../../assets/moon.png');
+    background-position: conta;
+}
+.botao{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    border: 1px solid #747272;
+    border-radius: 500px;
+}

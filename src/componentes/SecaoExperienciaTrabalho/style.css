@@ -1,0 +1,32 @@
+.secaoEmpregoX{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f6f8fc;
+    
+}
+
+section .divTextoEX h2{
+    text-align: center;
+    font-size: 32px;
+    color: #32333c;
+    padding: 25px;
+    
+} 
+
+.tracado{
+    
+    margin: 0 auto;
+    width: 150px;
+    border-bottom: 2px solid yellow;
+}
+
+section .divTextoEX p{
+    max-width: 800px;
+    text-align: center;
+    color: #8a8fa3;
+    padding: 25px;
+    
+} 
