@@ -20,7 +20,7 @@ export default function Rodape(){
                 <a href=''><img src={Behance}/></a>
                 <a href=''><img src={GooglePlus}/></a>
             </div>
-            <p >Copyright 2022 <a className='nome' href=''>Robson Luan</a></p>
+            <p >Copyright 2023 <a className='nome' href=''>Robson Luan</a></p>
         </div>
     );
 }
