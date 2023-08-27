@@ -13,7 +13,11 @@ export default function Rodape(){
             <img src={Logo}/>
             <p>Ajudamos a criar uma personalidade digital construindo sua marca no ambiente online utilizando estratégias, ferramentas e tecnologias personalizadas</p>
             <div className='imaRodape limite-area'>
+<<<<<<< HEAD
                 <a href='sadsa'><img src={Facebook}/></a>
+=======
+                <a href='dasdasdas'><img src={Facebook}/></a>
+>>>>>>> novaatt
                 <a href=''><img src={Twitter}/></a>
                 <a href=''><img src={Linkedin}/></a>
                 <a href=''><img src={Dribble}/></a>
